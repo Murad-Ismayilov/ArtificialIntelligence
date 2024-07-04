@@ -1,0 +1,22 @@
+.navbar{
+    background: linear-gradient(to bottom ,#0a111e ,#0b1320);
+    display: flex;
+    justify-content: space-between;
+}
+
+.artificial{
+    color: #3A68B8 !important;
+    font-size: 22px !important;
+    text-decoration: none;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+.btn{
+    color: #fff !important;
+    background-color: #3A68B8 !important;
+    padding: 15px 30px 15px 30px !important;
+    border-color: #3A68B8 !important;
+}

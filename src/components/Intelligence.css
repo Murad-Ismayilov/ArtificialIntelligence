@@ -1,0 +1,47 @@
+.intelligence h1 {
+    color: #ffffff;
+    font-size: 53px;
+}
+
+.intelligence img{
+    width: 545px;
+}
+
+
+.intelligence{
+    background: linear-gradient(to bottom ,#08101e ,#09111f);
+}
+
+.intelligence h3{
+    color: #3A68B8;
+    padding: 20px 0 0 0;
+}
+
+.intelligence p{
+    color: #ffffff;
+    opacity: .4;
+    font-size: 18px;
+    margin: 0 0 35px 0;
+}
+
+.button{
+    color: #fff !important;
+    background-color: #3A68B8 !important;
+    padding: 15px 30px 15px 30px !important;
+    border-color: #3A68B8 !important;
+    text-decoration: none;
+    margin: 0 10px 0 0;
+}
+
+.button-group{
+    color: #fff !important;
+    background-color: #3A68B8 !important;
+    padding: 15px 30px 15px 30px !important;
+    border-color: #3A68B8 !important;
+    text-decoration: none;
+}
+
+
+.logoipsum{
+    width: 210px !important;
+}

@@ -1,0 +1,27 @@
+.intelligence-footer{
+    background: linear-gradient(to bottom ,#060e1c ,#09111f);
+}
+
+.intelligence-footer h1{
+    color: #fff;
+    font-size: 18px;
+}
+
+.intelligence-footer p{
+    color: #fff;
+    opacity: .5;
+}
+
+.intelligence-footer h2{
+    color: #376cff;
+    font-size: 18px;
+}
+
+
+i{
+    color: #fff;
+}
+
+article{
+    color: #fff;
+}

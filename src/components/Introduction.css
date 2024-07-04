@@ -1,0 +1,35 @@
+.introduction{
+    background: linear-gradient(to bottom ,#020a18 ,#020a18);
+}
+
+.introduction h1 {
+    color: #ffffff;
+    font-size: 53px;
+    padding: 180px 0 0 0;
+}
+
+.introduction img{
+    width: 609px;
+    margin: -7px 45px 0 -92px;
+}
+
+.introduction p{
+    color: #ffffff;
+    opacity: .4;
+    font-size: 18px;
+    margin: 0 0 35px 0;
+}
+
+.introduction .button{
+    color: #fff !important;
+    background-color: #3A68B8 !important;
+    padding: 15px 30px 15px 30px !important;
+    border-color: #3A68B8 !important;
+    text-decoration: none;
+    margin: 0 10px 0 0;
+}
+
+.introduction .serv-box .card-img{
+    width: 73px !important;
+    margin: 0 0 0 0 !important;
+}
