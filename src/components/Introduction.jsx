@@ -2,13 +2,6 @@ import React from 'react'
 
 import './Introduction.css'
 
-
-import { Autoplay } from 'swiper/modules';
-// import Swiper JS
-import { Swiper, SwiperSlide } from 'swiper/react';
-// import Swiper styles
-import 'swiper/css';
-
 const Introduction = () => {
   return (
     <div className='introduction'>

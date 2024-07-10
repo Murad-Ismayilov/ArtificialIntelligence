@@ -1,8 +1,18 @@
 import React from 'react'
+import Intelligence from '../components/Intelligence'
+import Introduction from '../components/Introduction'
+import ServicesCard from '../components/ServicesCard'
+import Clients from '../components/Clients'
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <>
+
+    <Intelligence/>
+    <Introduction/>
+    <ServicesCard/>
+    <Clients/>
+    </>
   )
 }
 

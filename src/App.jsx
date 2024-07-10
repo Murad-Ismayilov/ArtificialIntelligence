@@ -1,28 +1,34 @@
-import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
 
-import React from 'react'
-
-
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar'
-import Intelligence from './components/Intelligence'
-import Introduction from './components/Introduction'
-import ServicesCard from './components/ServicesCard'
-import Clients from './components/Clients'
-import Footer from './components/Footer'
+
+import Home from './containers/Home';
+import About from './containers/About';
+import Services from './containers/Services';
+import Blog from './containers/Blog';
+import Contact from './containers/Contact';
 
 
+import Footer from './components/Footer';
 
-const App = () => {
+function App() {
   return (
-    <>
-    <Navbar/>
-    <Intelligence/>
-    <Introduction/>
-    <ServicesCard/>
-    <Clients/>
-    <Footer/>
-    </>
-  )
+    <div className=''>
+      <Router>
+      <Navbar/>
+        <Routes>
+          <Route path='/' element={<Home />} />
+          <Route path='/About' element={<About />} />
+          <Route path='/Services' element={<Services />} />
+          <Route path='/Blog' element={<Blog />} />
+          <Route path='/Contact' element={<Contact />} />
+        </Routes>
+        <Footer />
+      </Router>
+    </div>
+  );
 }
 
-export default App
+export default App;

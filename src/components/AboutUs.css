@@ -1,0 +1,60 @@
+
+.about-as{
+    background: linear-gradient(to bottom ,#101c3d ,#101c3d);
+}
+
+
+.about-as img{
+    width: 662px !important;
+}
+
+.about-as h3{
+    color: #fff;
+}
+
+.about-as p{
+    color: #fff;
+    padding-left: 30px;
+}
+
+.card-header {
+    border: none;
+    background: transparent;
+    padding: 0;
+}
+
+h3 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 30px;
+    padding-right: 50px;
+    cursor: pointer;
+}
+
+.cart {
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background: #0D152E;
+}
+
+.cart i {
+    text-align: end;
+    position: absolute;
+    right:  720px;
+}
+h1{
+    color: #fff;
+    padding: 60px 0 0 0;
+}
+
+h5{
+    color: #fff;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
+.about-as h2{
+    color: #fff;
+    text-align: center;
+}
