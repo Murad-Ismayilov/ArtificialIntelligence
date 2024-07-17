@@ -366,3 +366,334 @@ li .thumb {
     padding-left: 25px;
     vertical-align: top;
 }
+
+.recent-post li .info a {
+    color: #666666;
+    text-decoration: inherit;
+    font-weight: 800;
+    font-size: 14px;
+}
+
+.recent-post li a {
+    display: block;
+}
+
+.recent-post .meta-title {
+    font-family: 'Nunito', sans-serif;
+    margin-top: 15px;
+    font-weight: 700;
+    text-transform: capitalize;
+    font-size: 13px;
+}
+
+.recent-post li span {
+    display: inline-block;
+}
+
+.recent-post .meta-title i {
+    margin-right: 3px;
+    font-weight: 500;
+    color: #437eeb;
+}
+
+.category {
+    float: left;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.category li a {
+    display: inline-block;
+    text-transform: capitalize;
+    font-weight: 700;
+    color: #666666;
+}
+
+.category li:first-child a span {
+    top: 0;
+}
+
+.category ul {
+    margin: 0;
+    list-style-type: none;
+}
+
+.category li:first-child {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.category li {
+    display: block;
+    padding: 10px 0;
+    position: relative;
+    border-bottom: 1px solid #e7e7e7;
+    margin: 3px 0;
+}
+
+.category li a {
+    display: inline-block;
+    text-transform: capitalize;
+    font-weight: 700;
+    color: #666666;
+    text-decoration: none;
+}
+
+.category li:first-child a span {
+    top: 0;
+}
+
+.category li a span {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 0 10px;
+    position: absolute;
+    right: 0;
+    background: #f1f1f1;
+    top: 10px;
+    color: #232323;
+    font-size: 14px;
+}
+
+.gallery {
+    float: left;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.title {
+    display: block;
+}
+
+.title h4 {
+    font-weight: 800;
+    margin-bottom: 30px;
+    margin-top: -5px;
+    position: relative;
+    text-transform: capitalize;
+    z-index: 1;
+    font-size: 20px;
+    display: inline-block;
+}
+
+.title h4::after {
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    content: "";
+    height: 1px;
+    width: 50px;
+    border-bottom: 1px solid #437eeb;
+    margin-top: -1px;
+    margin-left: 15px;
+}
+
+.gallery ul {
+    margin: -7px;
+    overflow: hidden;
+    list-style: none;
+}
+
+.gallery ul li {
+    box-sizing: border-box;
+    float: left;
+    padding: 7px;
+    width: 33.333%;
+}
+
+.gallery ul li img {
+    min-height: 70px;
+    width: 100%;
+}
+
+.archives ul {
+    margin: 0;
+    list-style-type: none;
+}
+
+.archives ul li {
+    display: block;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.archives ul li a {
+    display: inline-block;
+    font-weight: 800;
+    text-transform: capitalize;
+    z-index: 1;
+    padding-left: 25px;
+    font-size: 14px;
+    color: #666666;
+    text-decoration: none;
+}
+
+.archives ul li a:hover {
+    display: inline-block;
+    font-weight: 800;
+    text-transform: capitalize;
+    z-index: 1;
+    padding-left: 25px;
+    font-size: 14px;
+    color: #0077ff;
+    text-decoration: none;
+}
+
+.archives ul li a::after {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    content: "\f07b";
+    font-family: "Font Awesome 5 Free";
+    height: 8px;
+    left: 0;
+    position: absolute;
+    width: 8px;
+    font-weight: 500;
+}
+
+.social-sidebar{
+    float: left;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.social-sidebar li {
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.social-sidebar li.facebook a {
+    background: #3B5998 none repeat scroll 0 0;
+}
+
+.social-sidebar li a {
+    background: #002359 none repeat scroll 0 0;
+    border: medium none;
+    color: #ffffff;
+    display: inline-block;
+    height: 50px;
+    line-height: 54px;
+    margin-bottom: 5px;
+    text-align: center;
+    width: 50px;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.fab {
+    font-family: "Font Awesome 5 Brands";
+}
+
+.fa, .fab, .fal, .far, .fas {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+}
+
+.social-sidebar li {
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+
+.social-sidebar li.twitter a {
+    background: #1DA1F2 none repeat scroll 0 0;
+}
+
+.social-sidebar li a {
+    background: #002359 none repeat scroll 0 0;
+    border: medium none;
+    color: #ffffff;
+    display: inline-block;
+    height: 50px;
+    line-height: 54px;
+    margin-bottom: 5px;
+    text-align: center;
+    width: 50px;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.social-sidebar li.pinterest a {
+    background: #BD081C none repeat scroll 0 0;
+}
+
+.social-sidebar li a {
+    background: #002359 none repeat scroll 0 0;
+    border: medium none;
+    color: #ffffff;
+    display: inline-block;
+    height: 50px;
+    line-height: 54px;
+    margin-bottom: 5px;
+    text-align: center;
+    width: 50px;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.social-sidebar li.g-plus a {
+    background: #DB4437 none repeat scroll 0 0;
+}
+
+.social-sidebar li a {
+    background: #002359 none repeat scroll 0 0;
+    border: medium none;
+    color: #ffffff;
+    display: inline-block;
+    height: 50px;
+    line-height: 54px;
+    margin-bottom: 5px;
+    text-align: center;
+    width: 50px;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.social-sidebar li.linkedin a {
+    background: #0077B5 none repeat scroll 0 0;
+}
+
+.social-sidebar li a {
+    background: #002359 none repeat scroll 0 0;
+    border: medium none;
+    color: #ffffff;
+    display: inline-block;
+    height: 50px;
+    line-height: 54px;
+    margin-bottom: 5px;
+    text-align: center;
+    width: 50px;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.tags ul li {
+    display: inline-block;
+
+}
+
+.tags ul li a {
+    border: 1px solid #e7e7e7;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 800;
+    margin-top: 8px;
+    margin-right: 5px;
+    padding: 5px 25px;
+    text-transform: capitalize;
+    font-size: 13px;
+    border-radius: 30px;
+    color: #666666;
+    background: #fafafa;
+}

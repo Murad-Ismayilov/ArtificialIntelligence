@@ -24,11 +24,11 @@ const Science = () => {
                             <h2> Data Science and artificial intelligence </h2>
                             <ul>
                                 <li>
-                                <i class="fa-regular fa-circle-check"></i>
+                                <i class="fa-regular fa-circle-check regular"></i>
                                 Little our played lively she adieus far sussex.
                                 </li>
                                 <li>
-                                <i class="fa-regular fa-circle-check"></i>
+                                <i class="fa-regular fa-circle-check regular"></i>
                                 Removed demands expense account in outward tedious do. Particular way thoroughly.
                                 </li>
                             </ul>
@@ -55,10 +55,10 @@ const Science = () => {
                   style={{ cursor: "pointer", marginLeft: "10px" }}
                 >
                   {openList === 1 ? (
-                    <i className="fa-solid fa-eye"></i>
+                    <i className="fa-solid fa- eye"></i>
                     
                   ) : (
-                    <i className="fa-solid fa-eye-slash"></i>
+                    <i className="fa-solid fa-eye-slash eye eye"></i>
                   )}
                 </span>
               </h3>
@@ -80,10 +80,10 @@ const Science = () => {
                   style={{ cursor: "pointer", marginLeft: "10px" }}
                 >
                   {openList === 2 ? (
-                    <i className="fa-solid fa-eye"></i>
+                    <i className="fa-solid fa-eye eye"></i>
                     
                   ) : (
-                    <i className="fa-solid fa-eye-slash"></i>
+                    <i className="fa-solid fa-eye-slash eye"></i>
                   )}
                 </span>
                 
@@ -107,10 +107,10 @@ const Science = () => {
                   style={{ cursor: "pointer", marginLeft: "10px" }}
                 >
                   {openList === 3 ? (
-                    <i className="fa-solid fa-eye"></i>
+                    <i className="fa-solid fa-eye eye "></i>
                     
                   ) : (
-                    <i className="fa-solid fa-eye-slash"></i>
+                    <i className="fa-solid fa-eye-slash eye"></i>
                   )}
                 </span>
               </h3>
@@ -152,7 +152,7 @@ const Science = () => {
                         <h4 className="sidebar-title"> Our Company </h4>
                         <p> Attempt offices own improve now see. Called person are around county talked her esteem. Those fully these way. </p>
                         <a href="#" className="sidebar-solid"> 
-                            <i class="fa-solid fa-file-arrow-down"></i>
+                            <i class="fa-solid fa-file-arrow-down down"></i>
                             Download PDF</a>
                     </div>
                     <div className="sidebar-item">
@@ -160,7 +160,7 @@ const Science = () => {
                         <ul className="contact">
                         <li>
                                 <div className="icon">
-                                <i class="fa-regular fa-envelope-open"></i>
+                                <i class="fa-regular fa-envelope-open open"></i>
                                 </div>
                             
                             
@@ -171,7 +171,7 @@ const Science = () => {
                             </li>
                             <li>
                                 <div className="icon">
-                                <i class="fa-solid fa-phone-volume"></i>
+                                <i class="fa-solid fa-phone-volume open"></i>
                                 </div>
                             
                             
@@ -182,7 +182,7 @@ const Science = () => {
                             </li>
                             <li>
                                 <div className="icon">
-                                <i class="fa-regular fa-clock"></i>
+                                <i class="fa-regular fa-clock open"></i>
                                 </div>
                             
                             
