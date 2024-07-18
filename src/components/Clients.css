@@ -1,18 +1,61 @@
-.Intelligence-3{
-    width: 642px;
-    height: 551px;
+@media(min-width: 320px){
+    .Intelligence-3 {
+        width: 100%;
+    }
+
+    .intelligence-3 h1{
+        padding: 70px 0 0 0;
+        color: #fff;
+    }
+
+    .intelligence-3{
+        background: linear-gradient(to bottom ,#020a18 ,#020a18);
+    }
+
+    .intelligence-3 p{
+        color: #fff;
+        opacity: .5;
+    }
 }
 
-.intelligence-3 h1{
-    padding: 70px 0 0 0;
-    color: #fff;
+@media(min-width: 998px){
+    .Intelligence-3{
+        width: 642px;
+        height: 551px;
+    }
+    
+    .intelligence-3 h1{
+        padding: 70px 0 0 0;
+        color: #fff;
+    }
+    
+    .intelligence-3{
+        background: linear-gradient(to bottom ,#020a18 ,#020a18);
+    }
+    
+    .intelligence-3 p{
+        color: #fff;
+        opacity: .5;
+    }
 }
 
-.intelligence-3{
-    background: linear-gradient(to bottom ,#020a18 ,#020a18);
-}
-
-.intelligence-3 p{
-    color: #fff;
-    opacity: .5;
+@media(min-width: 1200px){
+    .Intelligence-3{
+        width: 642px;
+        height: 551px;
+    }
+    
+    .intelligence-3 h1{
+        padding: 70px 0 0 0;
+        color: #fff;
+    }
+    
+    .intelligence-3{
+        background: linear-gradient(to bottom ,#020a18 ,#020a18);
+    }
+    
+    .intelligence-3 p{
+        color: #fff;
+        opacity: .5;
+    }
 }
