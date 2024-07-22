@@ -1,8 +1,17 @@
-import React from 'react'
-import '../components/Navbar.css'
-import { Link } from 'react-router-dom';
+import React, { useEffect } from 'react';
+import { Link, useLocation } from 'react-router-dom';
+import '../components/Navbar.css';
 
 const Navbar = () => {
+  const location = useLocation();
+
+  useEffect(() => {
+    const navbarCollapse = document.getElementById('navbarSupportedContent');
+    if (navbarCollapse && navbarCollapse.classList.contains('show')) {
+      navbarCollapse.classList.remove('show');
+    }
+  }, [location]);
+
   return (
     <>
       <nav className="navbar navbar-expand-lg">
