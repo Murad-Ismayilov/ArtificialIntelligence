@@ -1342,7 +1342,6 @@ form button #sumit{
     
     }
     
-
     
     button:not(:disabled) {
         cursor: pointer;
