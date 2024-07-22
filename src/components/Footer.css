@@ -25,6 +25,221 @@
     }
 }
 
+@media(min-width: 360px){
+    .intelligence-footer{
+        background: linear-gradient(to bottom ,#060e1c ,#09111f);
+    }
+    
+    .intelligence-footer h1 {
+        color: #fff;
+        font-size: 18px;
+        padding-top: 20px;
+    }
+    
+    .intelligence-footer p{
+        color: #fff;
+        opacity: .5;
+    }
+    
+    .intelligence-footer h2{
+        color: #376cff;
+        font-size: 18px;
+    }
+    
+    
+    article{
+        color: #fff;
+    }
+}
+
+@media(min-width: 375px){
+    .intelligence-footer{
+        background: linear-gradient(to bottom ,#060e1c ,#09111f);
+    }
+    
+    .intelligence-footer h1 {
+        color: #fff;
+        font-size: 18px;
+        padding-top: 20px;
+    }
+    
+    .intelligence-footer p{
+        color: #fff;
+        opacity: .5;
+    }
+    
+    .intelligence-footer h2 {
+        color: #376cff;
+        font-size: 23px;
+    }
+    
+    
+    article{
+        color: #fff;
+    }
+}
+
+@media(min-width: 390px){
+    .intelligence-footer{
+        background: linear-gradient(to bottom ,#060e1c ,#09111f);
+    }
+    
+    .intelligence-footer h1 {
+        color: #fff;
+        font-size: 18px;
+        padding-top: 20px;
+    }
+    
+    .intelligence-footer p{
+        color: #fff;
+        opacity: .5;
+    }
+    
+    .intelligence-footer h2 {
+        color: #376cff;
+        font-size: 23px;
+    }
+    
+    
+    article{
+        color: #fff;
+    }
+}
+
+@media(min-width: 393px){
+    .intelligence-footer{
+        background: linear-gradient(to bottom ,#060e1c ,#09111f);
+    }
+    
+    .intelligence-footer h1 {
+        color: #fff;
+        font-size: 18px;
+        padding-top: 20px;
+    }
+    
+    .intelligence-footer p{
+        color: #fff;
+        opacity: .5;
+    }
+    
+    .intelligence-footer h2 {
+        color: #376cff;
+        font-size: 23px;
+    }
+    
+    
+    article{
+        color: #fff;
+    }
+}
+
+@media(min-width: 412px){
+    .intelligence-footer{
+        background: linear-gradient(to bottom ,#060e1c ,#09111f);
+    }
+    
+    .intelligence-footer h1 {
+        color: #fff;
+        font-size: 18px;
+        padding-top: 20px;
+    }
+    
+    .intelligence-footer p{
+        color: #fff;
+        opacity: .5;
+    }
+    
+    .intelligence-footer h2 {
+        color: #376cff;
+        font-size: 23px;
+    }
+    
+    
+    article{
+        color: #fff;
+    }
+}
+
+@media(min-width: 414px){
+    .intelligence-footer{
+        background: linear-gradient(to bottom ,#060e1c ,#09111f);
+    }
+    
+    .intelligence-footer h1 {
+        color: #fff;
+        font-size: 18px;
+        padding-top: 20px;
+    }
+    
+    .intelligence-footer p{
+        color: #fff;
+        opacity: .5;
+    }
+    
+    .intelligence-footer h2 {
+        color: #376cff;
+        font-size: 23px;
+    }
+    
+    
+    article{
+        color: #fff;
+    }
+}
+
+@media(min-width: 428px){
+    .intelligence-footer{
+        background: linear-gradient(to bottom ,#060e1c ,#09111f);
+    }
+    
+    .intelligence-footer h1 {
+        color: #fff;
+        font-size: 18px;
+        padding-top: 20px;
+    }
+    
+    .intelligence-footer p{
+        color: #fff;
+        opacity: .5;
+    }
+    
+    .intelligence-footer h2 {
+        color: #376cff;
+        font-size: 23px;
+    }
+    
+    
+    article{
+        color: #fff;
+    }
+}
+
+@media(min-width: 768px){
+    .intelligence-footer{
+        background: linear-gradient(to bottom ,#060e1c ,#09111f);
+    }
+    
+    .intelligence-footer h1{
+        color: #fff;
+        font-size: 18px;
+    }
+    
+    .intelligence-footer p{
+        color: #fff;
+        opacity: .5;
+    }
+    
+    .intelligence-footer h2{
+        color: #376cff;
+        font-size: 18px;
+    }
+    
+    
+    article{
+        color: #fff;
+    }
+}
+
 @media(min-width: 998px){
     .intelligence-footer{
         background: linear-gradient(to bottom ,#060e1c ,#09111f);
@@ -50,6 +265,33 @@
         color: #fff;
     }
 }
+
+@media(min-width: 1114px){
+    .intelligence-footer{
+        background: linear-gradient(to bottom ,#060e1c ,#09111f);
+    }
+    
+    .intelligence-footer h1{
+        color: #fff;
+        font-size: 18px;
+    }
+    
+    .intelligence-footer p{
+        color: #fff;
+        opacity: .5;
+    }
+    
+    .intelligence-footer h2{
+        color: #376cff;
+        font-size: 18px;
+    }
+    
+    
+    article{
+        color: #fff;
+    }
+}
+
 
 @media(min-width: 1200px){
     .intelligence-footer{

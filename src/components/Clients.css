@@ -18,12 +18,195 @@
     }
 }
 
+@media(min-width: 360px){
+    .Intelligence-3 {
+        width: 100%;
+    }
+
+    .intelligence-3 h1{
+        padding: 70px 0 0 0;
+        color: #fff;
+    }
+
+    .intelligence-3{
+        background: linear-gradient(to bottom ,#020a18 ,#020a18);
+    }
+
+    .intelligence-3 p{
+        color: #fff;
+        opacity: .5;
+    }
+}
+
+@media(min-width: 375px){
+    .Intelligence-3 {
+        width: 100%;
+    }
+
+    .intelligence-3 h1{
+        padding: 70px 0 0 0;
+        color: #fff;
+    }
+
+    .intelligence-3{
+        background: linear-gradient(to bottom ,#020a18 ,#020a18);
+    }
+
+    .intelligence-3 p{
+        color: #fff;
+        opacity: .5;
+    }
+}
+
+@media(min-width: 390px){
+    .Intelligence-3 {
+        width: 100%;
+    }
+
+    .intelligence-3 h1{
+        padding: 70px 0 0 0;
+        color: #fff;
+    }
+
+    .intelligence-3{
+        background: linear-gradient(to bottom ,#020a18 ,#020a18);
+    }
+
+    .intelligence-3 p{
+        color: #fff;
+        opacity: .5;
+    }
+}
+
+@media(min-width: 393px){
+    .Intelligence-3 {
+        width: 100%;
+    }
+
+    .intelligence-3 h1{
+        padding: 70px 0 0 0;
+        color: #fff;
+    }
+
+    .intelligence-3{
+        background: linear-gradient(to bottom ,#020a18 ,#020a18);
+    }
+
+    .intelligence-3 p{
+        color: #fff;
+        opacity: .5;
+    }
+}
+
+@media(min-width: 412px){
+    .Intelligence-3 {
+        width: 100%;
+    }
+
+    .intelligence-3 h1{
+        padding: 70px 0 0 0;
+        color: #fff;
+    }
+
+    .intelligence-3{
+        background: linear-gradient(to bottom ,#020a18 ,#020a18);
+    }
+
+    .intelligence-3 p{
+        color: #fff;
+        opacity: .5;
+    }
+}
+
+@media(min-width: 414px){
+    .Intelligence-3 {
+        width: 100%;
+    }
+
+    .intelligence-3 h1{
+        padding: 70px 0 0 0;
+        color: #fff;
+    }
+
+    .intelligence-3{
+        background: linear-gradient(to bottom ,#020a18 ,#020a18);
+    }
+
+    .intelligence-3 p{
+        color: #fff;
+        opacity: .5;
+    }
+}
+
+@media(min-width: 428px){
+    .Intelligence-3 {
+        width: 100%;
+    }
+
+    .intelligence-3 h1{
+        padding: 70px 0 0 0;
+        color: #fff;
+    }
+
+    .intelligence-3{
+        background: linear-gradient(to bottom ,#020a18 ,#020a18);
+    }
+
+    .intelligence-3 p{
+        color: #fff;
+        opacity: .5;
+    }
+}
+
+@media(min-width: 768px){
+    .Intelligence-3 {
+        width: 367px;
+        /* height: 395px; */
+        padding: 90px 0 0 0;
+    }
+    
+    .intelligence-3 h1{
+        padding: 70px 0 0 0;
+        color: #fff;
+    }
+    
+    .intelligence-3{
+        background: linear-gradient(to bottom ,#020a18 ,#020a18);
+    }
+    
+    .intelligence-3 p{
+        color: #fff;
+        opacity: .5;
+    }
+}
+
 @media(min-width: 998px){
     .Intelligence-3{
         width: 642px;
         height: 551px;
     }
     
+    .intelligence-3 h1{
+        padding: 70px 0 0 0;
+        color: #fff;
+    }
+    
+    .intelligence-3{
+        background: linear-gradient(to bottom ,#020a18 ,#020a18);
+    }
+    
+    .intelligence-3 p{
+        color: #fff;
+        opacity: .5;
+    }
+}
+
+@media(min-width: 1114px){
+    .Intelligence-3 {
+        width: 579px;
+        /* height: 252px; */
+    }
+
     .intelligence-3 h1{
         padding: 70px 0 0 0;
         color: #fff;

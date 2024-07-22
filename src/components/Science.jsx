@@ -55,10 +55,10 @@ const Science = () => {
                   style={{ cursor: "pointer", marginLeft: "10px" }}
                 >
                   {openList === 1 ? (
-                    <i className="fa-solid fa- eye"></i>
+                    <i className="fa-solid fa-eye"></i>
                     
                   ) : (
-                    <i className="fa-solid fa-eye-slash eye eye"></i>
+                    <i className="fa-solid fa-eye-slash"></i>
                   )}
                 </span>
               </h3>

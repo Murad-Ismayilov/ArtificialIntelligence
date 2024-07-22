@@ -1,22 +1,54 @@
-.navbar{
-    background: linear-gradient(to bottom ,#0a111e ,#0b1320);
+.navbar {
+    background: linear-gradient(to bottom, #0a111e, #0b1320);
     display: flex;
     justify-content: space-between;
-}
-
-.artificial{
-    color: #3A68B8 !important;
-    font-size: 22px !important;
-    text-decoration: none;
 }
 
 .nav-link {
     color: #fff !important;
 }
 
-.btn{
+.btn {
     color: #fff !important;
     background-color: #3A68B8 !important;
-    padding: 15px 30px 15px 30px !important;
+    padding: 15px 30px !important;
     border-color: #3A68B8 !important;
 }
+
+.navbar-toggler {
+    padding: var(--bs-navbar-toggler-padding-y) var(--bs-navbar-toggler-padding-x);
+    font-size: var(--bs-navbar-toggler-font-size);
+    line-height: 1;
+    color:#ffff;
+    background-color: #ffff;
+    border: var(--bs-border-width) solid #ffff;
+    border-radius: var(--bs-navbar-toggler-border-radius);
+    transition: var(--bs-navbar-toggler-transition);
+}
+
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    background-image: var(--bs-navbar-toggler-icon-bg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+/* Navbar.css */
+.d-lg-none {
+    display: none !important;
+    
+  }
+
+  .d-lg-block .nav-link{
+    color: #3A68B8 !important;
+    color: #3A68B8 !important;
+    font-size: 22px !important;
+    text-decoration: none;
+  }
+    
+
+  

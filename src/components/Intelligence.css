@@ -1,47 +1,598 @@
-.intelligence h1 {
-    color: #ffffff;
-    font-size: 53px;
+@media(min-width: 320px){
+
+    .intelligence h1 {
+        color: #ffffff;
+        font-size: 30px;
+    }
+
+    .intelligence img {
+        width: 100%;
+    }
+
+    .intelligence{
+        background: linear-gradient(to bottom ,#08101e ,#09111f);
+    }
+
+    .intelligence h3 {
+        font-size: 20px;
+        color: #3A68B8;
+        padding: 20px 0 0 0;
+    }
+
+    .intelligence p{
+        color: #ffffff;
+        opacity: .4;
+        font-size: 18px;
+        margin: 0 0 35px 0;
+    }
+
+    .button {
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 15px 20px 15px 20px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+        margin: 0 10px 0 0;
+    }
+
+    .button-group{
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 15px 20px 15px 20px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+    }
+
+    .logoipsum{
+        width: 210px !important;
+    }
+
 }
 
-.intelligence img{
-    width: 545px;
+@media(min-width: 360px){
+
+    .intelligence h1 {
+        color: #ffffff;
+        font-size: 34px;
+    }
+
+    .intelligence img {
+        width: 100%;
+    }
+
+    .intelligence{
+        background: linear-gradient(to bottom ,#08101e ,#09111f);
+    }
+
+    .intelligence h3 {
+        color: #3A68B8;
+        padding: 20px 0 0 0;
+        font-size: 22px;
+    }
+
+    .intelligence p{
+        color: #ffffff;
+        opacity: .4;
+        font-size: 18px;
+        margin: 0 0 35px 0;
+    }
+
+    .button {
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 15px 30px 15px 30px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+        margin: 0 10px 0 0;
+    }
+
+    .button-group{
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 15px 30px 15px 30px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+    }
+
+    .logoipsum{
+        width: 210px !important;
+    }
+
 }
 
+@media(min-width: 375px){
+    .intelligence h1 {
+        color: #ffffff;
+        font-size: 35px;
+    }
+    
+    .intelligence img {
+        width: 100%;
+    }
+    
+    
+    .intelligence{
+        background: linear-gradient(to bottom ,#08101e ,#09111f);
+    }
+    
+    .intelligence h3 {
+        color: #3A68B8;
+        padding: 20px 0 0 0;
+        font-size: 22px;
+    }
+    
+    .intelligence p{
+        color: #ffffff;
+        opacity: .4;
+        font-size: 18px;
+        margin: 0 0 35px 0;
+    }
+    
+    .button {
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 15px 30px 15px 30px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+        margin: 0 10px 0 0;
+    }
 
-.intelligence{
-    background: linear-gradient(to bottom ,#08101e ,#09111f);
+    .button-group{
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 15px 30px 15px 30px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+    }
+
+    .logoipsum{
+        width: 210px !important;
+    }
 }
 
-.intelligence h3{
-    color: #3A68B8;
-    padding: 20px 0 0 0;
+@media(min-width: 390px){
+    .intelligence h1 {
+        color: #ffffff;
+        font-size: 39px;
+    }
+
+    .intelligence img {
+        width: 100%;
+    }
+
+    .intelligence{
+        background: linear-gradient(to bottom ,#08101e ,#09111f);
+    }
+
+    .intelligence h3 {
+        color: #3A68B8;
+        padding: 20px 0 0 0;
+        font-size: 26px;
+    }
+
+    .intelligence p{
+        color: #ffffff;
+        opacity: .4;
+        font-size: 18px;
+        margin: 0 0 35px 0;
+    }
+
+    .button {
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 20px 40px 20px 40px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+        margin: 0 10px 0 0;
+    }
+
+    .button-group{
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 20px 40px 20px 40px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+    }
+
+    .logoipsum{
+        width: 210px !important;
+    }
 }
 
-.intelligence p{
-    color: #ffffff;
-    opacity: .4;
-    font-size: 18px;
-    margin: 0 0 35px 0;
+@media(min-width: 393px){
+    .intelligence h1 {
+        color: #ffffff;
+        font-size: 39px;
+    }
+
+    .intelligence img {
+        width: 100%;
+    }
+
+    .intelligence{
+        background: linear-gradient(to bottom ,#08101e ,#09111f);
+    }
+
+    .intelligence h3 {
+        color: #3A68B8;
+        padding: 20px 0 0 0;
+        font-size: 26px;
+    }
+
+    .intelligence p{
+        color: #ffffff;
+        opacity: .4;
+        font-size: 18px;
+        margin: 0 0 35px 0;
+    }
+
+    .button {
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 20px 40px 20px 40px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+        margin: 0 10px 0 0;
+    }
+
+    .button-group{
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 20px 40px 20px 40px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+    }
+
+    .logoipsum{
+        width: 210px !important;
+    }
 }
 
-.button{
-    color: #fff !important;
-    background-color: #3A68B8 !important;
-    padding: 15px 30px 15px 30px !important;
-    border-color: #3A68B8 !important;
-    text-decoration: none;
-    margin: 0 10px 0 0;
+@media(min-width: 412px){
+    .intelligence h1 {
+        color: #ffffff;
+        font-size: 39px;
+    }
+
+    .intelligence img {
+        width: 100%;
+    }
+
+    .intelligence{
+        background: linear-gradient(to bottom ,#08101e ,#09111f);
+    }
+
+    .intelligence h3 {
+        color: #3A68B8;
+        padding: 20px 0 0 0;
+        font-size: 26px;
+    }
+
+    .intelligence p{
+        color: #ffffff;
+        opacity: .4;
+        font-size: 18px;
+        margin: 0 0 35px 0;
+    }
+
+    .button {
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 20px 40px 20px 40px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+        margin: 0 10px 0 0;
+    }
+
+    .button-group{
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 20px 40px 20px 40px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+    }
+
+    .logoipsum{
+        width: 210px !important;
+    }
 }
 
-.button-group{
-    color: #fff !important;
-    background-color: #3A68B8 !important;
-    padding: 15px 30px 15px 30px !important;
-    border-color: #3A68B8 !important;
-    text-decoration: none;
+@media(min-width: 414px){
+    .intelligence h1 {
+        color: #ffffff;
+        font-size: 39px;
+    }
+
+    .intelligence img {
+        width: 100%;
+    }
+
+    .intelligence{
+        background: linear-gradient(to bottom ,#08101e ,#09111f);
+    }
+
+    .intelligence h3 {
+        color: #3A68B8;
+        padding: 20px 0 0 0;
+        font-size: 26px;
+    }
+
+    .intelligence p{
+        color: #ffffff;
+        opacity: .4;
+        font-size: 18px;
+        margin: 0 0 35px 0;
+    }
+
+    .button {
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 20px 40px 20px 40px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+        margin: 0 10px 0 0;
+    }
+
+    .button-group{
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 20px 40px 20px 40px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+    }
+
+    .logoipsum{
+        width: 210px !important;
+    }
 }
 
+@media(min-width: 428px){
+    .intelligence h1 {
+        color: #ffffff;
+        font-size: 40px;
+    }
 
-.logoipsum{
-    width: 210px !important;
+    .intelligence img {
+        width: 100%;
+    }
+
+    .intelligence{
+        background: linear-gradient(to bottom ,#08101e ,#09111f);
+    }
+
+    .intelligence h3 {
+        color: #3A68B8;
+        padding: 20px 0 0 0;
+        font-size: 26px;
+    }
+
+    .intelligence p{
+        color: #ffffff;
+        opacity: .4;
+        font-size: 18px;
+        margin: 0 0 35px 0;
+    }
+
+    .button {
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 20px 40px 20px 40px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+        margin: 0 10px 0 0;
+    }
+
+    .button-group{
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 20px 40px 20px 40px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+    }
+
+    .logoipsum{
+        width: 210px !important;
+    }
+}
+
+@media(min-width: 768px){
+    .intelligence h1 {
+        color: #ffffff;
+        font-size: 36px;
+    }
+    
+    .intelligence img {
+        width: 364px;
+        margin: 120px 0 0 0;
+    }
+    
+    
+    .intelligence{
+        background: linear-gradient(to bottom ,#08101e ,#09111f);
+    }
+    
+    .intelligence h3{
+        color: #3A68B8;
+        padding: 20px 0 0 0;
+    }
+    
+    .intelligence p{
+        color: #ffffff;
+        opacity: .4;
+        font-size: 18px;
+        margin: 0 0 35px 0;
+    }
+    
+    .button{
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 15px 30px 15px 30px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+        margin: 0 10px 0 0;
+    }
+    
+    .button-group{
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 15px 30px 15px 30px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+    }
+    
+    
+    .logoipsum{
+        width: 210px !important;
+    }
+}
+
+@media(min-width: 998px){
+    .intelligence h1 {
+        color: #ffffff;
+        font-size: 53px;
+    }
+    
+    .intelligence img{
+        width: 545px;
+    }
+    
+    
+    .intelligence{
+        background: linear-gradient(to bottom ,#08101e ,#09111f);
+    }
+    
+    .intelligence h3{
+        color: #3A68B8;
+        padding: 20px 0 0 0;
+    }
+    
+    .intelligence p{
+        color: #ffffff;
+        opacity: .4;
+        font-size: 18px;
+        margin: 0 0 35px 0;
+    }
+    
+    .button{
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 15px 30px 15px 30px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+        margin: 0 10px 0 0;
+    }
+    
+    .button-group{
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 15px 30px 15px 30px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+    }
+    
+    
+    .logoipsum{
+        width: 210px !important;
+    }
+}
+
+@media(min-width: 1114px){
+    .intelligence h1 {
+        color: #ffffff;
+        font-size: 48px;
+    }
+    
+    .intelligence img{
+        width: 545px;
+        margin: 0 0 0 0;
+    }
+    
+    
+    .intelligence{
+        background: linear-gradient(to bottom ,#08101e ,#09111f);
+    }
+    
+    .intelligence h3{
+        color: #3A68B8;
+        padding: 20px 0 0 0;
+    }
+    
+    .intelligence p{
+        color: #ffffff;
+        opacity: .4;
+        font-size: 18px;
+        margin: 0 0 35px 0;
+    }
+    
+    .button{
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 15px 30px 15px 30px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+        margin: 0 10px 0 0;
+    }
+    
+    .button-group{
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 15px 30px 15px 30px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+    }
+    
+    
+    .logoipsum{
+        width: 210px !important;
+    }
+}
+
+@media(min-width: 1200px){
+    .intelligence h1 {
+        color: #ffffff;
+        font-size: 53px;
+    }
+    
+    .intelligence img{
+        width: 545px;
+    }
+    
+    
+    .intelligence{
+        background: linear-gradient(to bottom ,#08101e ,#09111f);
+    }
+    
+    .intelligence h3{
+        color: #3A68B8;
+        padding: 20px 0 0 0;
+    }
+    
+    .intelligence p{
+        color: #ffffff;
+        opacity: .4;
+        font-size: 18px;
+        margin: 0 0 35px 0;
+    }
+    
+    .button{
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 15px 30px 15px 30px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+        margin: 0 10px 0 0;
+    }
+    
+    .button-group{
+        color: #fff !important;
+        background-color: #3A68B8 !important;
+        padding: 15px 30px 15px 30px !important;
+        border-color: #3A68B8 !important;
+        text-decoration: none;
+    }
+    
+    
+    .logoipsum{
+        width: 210px !important;
+    }
 }
