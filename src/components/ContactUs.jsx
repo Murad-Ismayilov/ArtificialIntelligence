@@ -26,7 +26,7 @@ const ContactUs = () => {
             .email("Elektron poçt standartlara uyğun deyil")
             .required("Elektron poçt mütləq doldurulmalıdır"),
         phone: Yup.string()
-            .matches(/^\+\d{1,3}\d{9,}$/, "Telefon nömrəsi ölkə kodu ilə birlikdə daxil edilməlidir və minimum 12 simvoldan ibarət olmalıdır")
+            .matches(/^\+\d{1,3}\d{9,}$/, "Telefon nömrəsini daxil edərkən, ölkə kodunu + işarəsi ilə birlikdə daxil edin. Məsələn: +44 20 7328 4499.")
             .required("Telefon nömrəsi mütləq doldurulmalıdır"),
         message: Yup.string()
     });
