@@ -1342,9 +1342,7 @@ form button #sumit{
     
     }
     
-    textarea {
-        resize: none !important;
-    }
+
     
     button:not(:disabled) {
         cursor: pointer;
