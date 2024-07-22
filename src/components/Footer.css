@@ -18,7 +18,9 @@
         color: #376cff;
         font-size: 18px;
     }
-    
+    .intelligence-footer article i{
+        color: #fff;
+    }
     
     article{
         color: #fff;
@@ -46,7 +48,9 @@
         font-size: 18px;
     }
     
-    
+    .intelligence-footer article i{
+        color: #fff;
+    }
     article{
         color: #fff;
     }
@@ -72,7 +76,9 @@
         color: #376cff;
         font-size: 23px;
     }
-    
+    .intelligence-footer article i{
+        color: #fff;
+    }
     
     article{
         color: #fff;
@@ -80,6 +86,11 @@
 }
 
 @media(min-width: 390px){
+
+    .intelligence-footer article i{
+        color: #fff;
+    }
+
     .intelligence-footer{
         background: linear-gradient(to bottom ,#060e1c ,#09111f);
     }
@@ -111,6 +122,10 @@
         background: linear-gradient(to bottom ,#060e1c ,#09111f);
     }
     
+    .intelligence-footer article i{
+        color: #fff;
+    }
+
     .intelligence-footer h1 {
         color: #fff;
         font-size: 18px;
@@ -136,6 +151,10 @@
 @media(min-width: 412px){
     .intelligence-footer{
         background: linear-gradient(to bottom ,#060e1c ,#09111f);
+    }
+
+    .intelligence-footer article i{
+        color: #fff;
     }
     
     .intelligence-footer h1 {
@@ -165,6 +184,10 @@
         background: linear-gradient(to bottom ,#060e1c ,#09111f);
     }
     
+    .intelligence-footer article i{
+        color: #fff;
+    }
+
     .intelligence-footer h1 {
         color: #fff;
         font-size: 18px;
@@ -190,6 +213,10 @@
 @media(min-width: 428px){
     .intelligence-footer{
         background: linear-gradient(to bottom ,#060e1c ,#09111f);
+    }
+
+    .intelligence-footer article i{
+        color: #fff;
     }
     
     .intelligence-footer h1 {
@@ -233,7 +260,9 @@
         color: #376cff;
         font-size: 18px;
     }
-    
+    .intelligence-footer article i{
+        color: #fff;
+    }
     
     article{
         color: #fff;
@@ -244,7 +273,11 @@
     .intelligence-footer{
         background: linear-gradient(to bottom ,#060e1c ,#09111f);
     }
-    
+
+    .intelligence-footer article i{
+        color: #fff;
+    }
+
     .intelligence-footer h1{
         color: #fff;
         font-size: 18px;
@@ -269,6 +302,10 @@
 @media(min-width: 1114px){
     .intelligence-footer{
         background: linear-gradient(to bottom ,#060e1c ,#09111f);
+    }
+
+    .intelligence-footer article i{
+        color: #fff;
     }
     
     .intelligence-footer h1{
@@ -313,6 +350,9 @@
         font-size: 18px;
     }
     
+    .intelligence-footer article i{
+        color: #fff;
+    }
     
     article{
         color: #fff;
